@@ -1,0 +1,21 @@
+*{
+    padding:10%;
+    margin:0;
+    border: 0;
+}
+body{
+    background-color:cornflowerblue;
+}
+.menu-bar{
+    border:40px,20px;
+    background-color:rgb(233, 145, 145);
+    position:sticky;
+    top:0;
+    padding-left:40px;
+
+}
+a{
+    text-decoration:none;
+    display :inline;
+    padding-left: 100;
+}
